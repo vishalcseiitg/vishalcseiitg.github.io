@@ -3,7 +3,7 @@ title: PHOTORAMA
 email: ""
 description: "Photo Journal"
 url: "https://vishalcseiitg.github.io"
-baseurl: "/photorama"
+baseurl: ""   # IMPORTANT for username.github.io repos
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
