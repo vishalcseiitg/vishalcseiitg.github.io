@@ -4,10 +4,9 @@ email: ""
 description: "Photo Journal"
 url: "https://vishalcseiitg.github.io"
 baseurl: ""   # IMPORTANT for username.github.io repos
-facebook_username: ""
-twitter_username: ""
-instagram_username: ""
-github_username:  ""
+twitter_username: "https://x.com/vishalcseiitg"
+instagram_username: "https://www.instagram.com/the.daft.introvert?igsh=MTV3dGF4ZG92bTh2aQ=="
+github_username:  "https://github.com/vishalcseiitg"
 share: true
 
 # Owner/author information
