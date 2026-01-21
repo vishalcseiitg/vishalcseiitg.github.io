@@ -1,6 +1,6 @@
 # Site settings
 title: APERTURA
-email: ""
+email: "vishal_k@cs.iitr.ac.in"
 description: "Photo Journal"
 url: "https://vishalcseiitg.github.io"
 baseurl: ""   # IMPORTANT for username.github.io repos
