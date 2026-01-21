@@ -1,13 +1,19 @@
 # Site settings
-title: APERTURA
+title: "APERTURA"
 email: "vishal_k@cs.iitr.ac.in"
 description: "Photo Journal"
+
+# GitHub Pages (user site)
 url: "https://vishalcseiitg.github.io"
-baseurl: ""   # IMPORTANT for username.github.io repos
-twitter_username: "https://x.com/vishalcseiitg"
-instagram_username: "https://www.instagram.com/the.daft.introvert?igsh=MTV3dGF4ZG92bTh2aQ=="
-github_username:  "https://github.com/vishalcseiitg"
+baseurl: ""
+
+# Social (use handles, not full URLs)
+twitter_username: "vishalcseiitg"        # X/Twitter handle
+instagram_username: "the.daft.introvert" # Instagram handle (no URL, no ?igsh)
+github_username: "vishalcseiitg"         # GitHub username
+
 share: true
+
 
 # Owner/author information
 owner:
